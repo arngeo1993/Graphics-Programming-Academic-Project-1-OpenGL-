@@ -1,0 +1,8 @@
+Transform
+0.0 0.0
+Sprite
+Smile.bmp
+UpDown
+0 800 0
+Body
+2.0

@@ -1,0 +1,13 @@
+Name
+EnemyShip
+Transform
+50 50 0
+70 70
+0
+Sprite
+Level4\\Enemy_Rocket.png
+Body
+0.0
+50 50
+AABB
+-35 -35 35 35

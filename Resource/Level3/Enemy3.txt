@@ -1,0 +1,13 @@
+Name
+Asteroid
+Transform
+250 590 0
+100 100
+0
+Sprite
+Level3\\asteroid3.png
+Body
+0.0
+-55 65
+Circle
+50.0

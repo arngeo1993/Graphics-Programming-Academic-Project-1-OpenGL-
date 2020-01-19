@@ -1,0 +1,13 @@
+Name
+EnemyShipHomingMissile
+Transform
+0 0 0
+30 30
+0
+Sprite
+HomingMissile.png
+Body
+0.0
+0 0
+AABB
+-15 -15 15 15

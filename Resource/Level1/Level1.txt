@@ -1,0 +1,11 @@
+Level1\\Background1.txt
+Level1\\Player.txt
+Level1\\Enemy_Ship.txt
+Level1\\Enemy_Ship2.txt
+Level1\\Enemy2.txt
+Level1\\Enemy5.txt
+
+
+
+
+

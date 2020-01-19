@@ -1,0 +1,14 @@
+Name
+MenuArrow
+Transform
+554 561 0
+70 70
+0
+Sprite
+Menu\\rocket.png
+Body
+0.0
+0 0
+AABB
+-1 -1 1 1
+

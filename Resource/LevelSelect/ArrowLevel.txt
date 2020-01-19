@@ -1,0 +1,14 @@
+Name
+LevelArrow
+Transform
+650 281 0
+70 70
+0
+Sprite
+LevelSelect\\rocket.png
+Body
+0.0
+0 0
+AABB
+-1 -1 1 1
+

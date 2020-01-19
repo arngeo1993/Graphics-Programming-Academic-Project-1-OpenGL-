@@ -1,0 +1,13 @@
+Name
+Bullet
+Transform
+0 0 0
+10 10
+0
+Sprite
+Bullet.png
+Body
+0.0
+0 0
+Circle
+1

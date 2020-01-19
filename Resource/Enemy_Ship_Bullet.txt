@@ -1,0 +1,13 @@
+Name
+EnemyShipBullet
+Transform
+0 0 0
+10 10
+0
+Sprite
+Bullet.png
+Body
+0.0
+0 0
+AABB
+-1 -1 1 1

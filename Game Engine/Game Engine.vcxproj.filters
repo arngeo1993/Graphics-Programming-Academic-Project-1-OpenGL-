@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FrameRateController.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GameObjectManager.cpp" />
+    <ClCompile Include="Controller.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="UpDown.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectFactory.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicManager.cpp" />
+    <ClCompile Include="Body.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="LineSegment2D.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Math2D.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix2D.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp" />
+    <ClCompile Include="ObjectName.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="StateManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FrameRateController.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="Sprite.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectManager.h" />
+    <ClInclude Include="Controller.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="UpDown.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectFactory.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicManager.h" />
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="LineSegment2D.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Math2D.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix2D.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="ObjectName.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="MemeoryManager.h" />
+    <ClInclude Include="StateManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Component">
+      <UniqueIdentifier>{4a8a26df-eaab-4717-aab0-f81f152a7a62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library">
+      <UniqueIdentifier>{a879cf70-54d4-4c46-9beb-202ce0fe9ddb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment.frag" />
+    <None Include="vertex.vs" />
+    <None Include="fragmentColor.frag" />
+    <None Include="vertexColor.vs" />
+  </ItemGroup>
+</Project>

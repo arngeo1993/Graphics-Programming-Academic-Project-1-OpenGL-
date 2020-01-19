@@ -1,0 +1,14 @@
+Name
+Ship
+Transform
+910 490 0
+70 70
+0
+Sprite
+Level3\\rocket.png
+Controller
+Body
+0.0
+0 0
+AABB
+-35 -35 35 35

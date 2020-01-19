@@ -1,0 +1,13 @@
+Name
+Background1
+Transform
+0 0 1
+50 50
+0
+Sprite
+Level4\\Background.png
+Body
+0.0
+0 0
+
+

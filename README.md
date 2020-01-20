@@ -34,7 +34,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Graphics_Programming___Academic_Project_1_(_OpenGL)](Gifs/Graphics_Programming___Academic_Project_1_(_OpenGL).gif)](https://youtu.be/ZTfBqowgt5A "Graphics_Programming___Academic_Project_1_(_OpenGL)")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Graphics_Programming___Academic_Project_1_(_OpenGL)](Gifs/Graphics_Programming___Academic_Project_1_(_OpenGL).gif)](https://youtu.be/ZTfBqowgt5A "Graphics_Programming___Academic_Project_1_(_OpenGL)")
 &nbsp;
 &nbsp;
 &nbsp;

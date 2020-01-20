@@ -21,7 +21,7 @@
 ###
 ### Project was made while I was studying in DigiPen Institute of Technology
 
-### Asteroids
+# Asteroids
 &nbsp;
 &nbsp;
 &nbsp;
